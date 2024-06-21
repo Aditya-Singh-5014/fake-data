@@ -1,36 +1,37 @@
 {
     "technology": [
       {
-        "question": "What is your favorite programming language?",
+        "question": "Which technology trend excites you the most?",
         "type": "select",
-        "options": ["JavaScript", "Python", "Java", "C#"]
+        "options": ["Artificial Intelligence", "Blockchain", "Cloud Computing", "Internet of Things"]
       },
       {
-        "question": "How many years of experience do you have?",
-        "type": "number"
+        "question": "How do you stay updated with the latest tech trends?",
+        "type": "select",
+        "options": ["Blogs", "Webinars", "Conferences", "Online Courses"]
       }
     ],
     "health": [
       {
-        "question": "How often do you exercise?",
+        "question": "What is your preferred form of exercise?",
         "type": "select",
-        "options": ["Daily", "Weekly", "Monthly", "Rarely"]
+        "options": ["Running", "Yoga", "Gym", "Cycling"]
       },
       {
-        "question": "What is your diet preference?",
-        "type": "select",
-        "options": ["Vegetarian", "Vegan", "Non-Vegetarian"]
+        "question": "How many hours of sleep do you get on average?",
+        "type": "number"
       }
     ],
     "education": [
       {
-        "question": "What is your highest qualification?",
+        "question": "Which learning method do you find most effective?",
         "type": "select",
-        "options": ["High School", "Bachelor's", "Master's", "PhD"]
+        "options": ["Online Learning", "Classroom Learning", "Self-Study", "Group Study"]
       },
       {
-        "question": "What field did you study?",
-        "type": "text"
+        "question": "How do you prefer to take notes?",
+        "type": "select",
+        "options": ["Digital", "Paper", "Both"]
       }
     ]
   }
