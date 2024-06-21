@@ -1,0 +1,37 @@
+{
+    "technology": [
+      {
+        "question": "What is your favorite programming language?",
+        "type": "select",
+        "options": ["JavaScript", "Python", "Java", "C#"]
+      },
+      {
+        "question": "How many years of experience do you have?",
+        "type": "number"
+      }
+    ],
+    "health": [
+      {
+        "question": "How often do you exercise?",
+        "type": "select",
+        "options": ["Daily", "Weekly", "Monthly", "Rarely"]
+      },
+      {
+        "question": "What is your diet preference?",
+        "type": "select",
+        "options": ["Vegetarian", "Vegan", "Non-Vegetarian"]
+      }
+    ],
+    "education": [
+      {
+        "question": "What is your highest qualification?",
+        "type": "select",
+        "options": ["High School", "Bachelor's", "Master's", "PhD"]
+      },
+      {
+        "question": "What field did you study?",
+        "type": "text"
+      }
+    ]
+  }
+  
